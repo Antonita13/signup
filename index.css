@@ -1,0 +1,58 @@
+header{
+    text-align: center;
+    text-size-adjust: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    color: black;
+    text-align: center;
+        background-position: center;
+        backdrop-filter: blur(25px);
+        box-shadow: 0vmin;
+        border-radius: 10px;
+        border-style: groove;
+        border-color: black;
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+        min-width: 100vh;
+        
+    
+}
+body{
+    background-image: url(shoping.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    background-origin: padding-box;
+    }
+    form{
+        background-position: center;
+        backdrop-filter: blur(25px);
+        box-shadow: 0vmin;
+        border-radius: 10px;
+        border-style: groove;
+        border-color: black;
+        border: 2px solid black;
+        width: 300px;
+        height: 350px;
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+        
+
+    }
+    footer{
+        text-align: center;
+        background-position: center;
+        backdrop-filter: blur(25px);
+        box-shadow: 0vmin;
+        border-radius: 10px;
+        border-style: groove;
+        border-color: black;
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+        
+    
+    }
